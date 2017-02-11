@@ -1,0 +1,16 @@
+current directory: D:/RedSocialParaMascota/path/ruby/2.2.0/gems/debug_inspector-0.0.2/ext/debug_inspector
+D:/RailsInstaller/Ruby2.2.0/bin/ruby.exe -r ./siteconf20170211-2544-fbu9f0.rb extconf.rb
+creating Makefile
+
+current directory: D:/RedSocialParaMascota/path/ruby/2.2.0/gems/debug_inspector-0.0.2/ext/debug_inspector
+make "DESTDIR=" clean
+
+current directory: D:/RedSocialParaMascota/path/ruby/2.2.0/gems/debug_inspector-0.0.2/ext/debug_inspector
+make "DESTDIR="
+generating debug_inspector-i386-mingw32.def
+compiling debug_inspector.c
+linking shared-object debug_inspector.so
+
+current directory: D:/RedSocialParaMascota/path/ruby/2.2.0/gems/debug_inspector-0.0.2/ext/debug_inspector
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 debug_inspector.so ./.gem.20170211-2544-1g3kiyf
