@@ -1,0 +1,2 @@
+      invoke  active_record
+    conflict    db/migrate/20170211150644_create_messages.rb
